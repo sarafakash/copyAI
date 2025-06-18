@@ -5,10 +5,10 @@ from shapely.geometry import Point
 from collections import defaultdict
 
 # === Load Graph & Layout Data ===
-with open("walkable_graph_clean.json", "r") as f:
+with open("data/walkable_graph_clean.json", "r") as f:
     graph_data = json.load(f)
 
-with open("sh3d_elements_with_ids.json", "r") as f:
+with open("data/sh3d_elements_with_ids.json", "r") as f:
     sh3d_elements = json.load(f)
 
 # === Build Graph ===

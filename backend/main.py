@@ -30,6 +30,11 @@ app.add_middleware(
 active_threats = set()
 user_locations = {}
 
+@app.head("/")
+def head_home():
+    return
+
+
 @app.get("/")
 def home():
     return {"message": "EvacAI backend is running!"}

@@ -3,3 +3,8 @@ uvicorn[standard]
 shapely
 networkx
 supabase
+python-dotenv
+python-multipart
+requests
+matplotlib
+scipy

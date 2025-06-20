@@ -55,6 +55,11 @@ class UserRegistration(BaseModel):
     name: str
     contact_number: Optional[str] = None
 
+
+@app.get("/")
+def root():
+    return {"message": "EvacAI backend is running!"}
+
 # === Core Routing Logic ===
 def find_best_exit(building: str, user_id: str, current: str, threats: List[str]):
     try:

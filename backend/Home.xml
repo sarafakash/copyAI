@@ -1,0 +1,179 @@
+<?xml version='1.0'?>
+<home version='7400' name='nikhil_building.sh3d' camera='topCamera' wallHeight='243.84'>
+  <property name='com.eteks.sweethome3d.SweetHome3D.CatalogPaneDividerLocation' value='320'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ColumnWidths' value='43,27,28,27,26'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameHeight' value='576'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameMaximized' value='true'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameWidth' value='1024'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameX' value='35'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameY' value='120'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.MainPaneDividerLocation' value='156'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanPaneDividerLocation' value='641'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanScale' value='0.75'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanViewportX' value='306'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanViewportY' value='24'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ScreenHeight' value='720'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ScreenWidth' value='1280'/>
+  <furnitureVisibleProperty name='NAME'/>
+  <furnitureVisibleProperty name='WIDTH'/>
+  <furnitureVisibleProperty name='DEPTH'/>
+  <furnitureVisibleProperty name='HEIGHT'/>
+  <furnitureVisibleProperty name='VISIBLE'/>
+  <environment groundColor='00A8A8A8' skyColor='00CCE4FC' lightColor='00D0D0D0' ceillingLightColor='00D0D0D0' photoWidth='400' photoHeight='300' photoAspectRatio='VIEW_3D_RATIO' photoQuality='0' videoWidth='320' videoAspectRatio='RATIO_4_3' videoQuality='0' videoFrameRate='25'/>
+  <compass x='-100.0' y='50.0' diameter='100.0' northDirection='0.0' longitude='-2.0637257' latitude='0.5943234' timeZone='America/Los_Angeles'/>
+  <observerCamera attribute='observerCamera' lens='PINHOLE' x='50.0' y='50.0' z='170.0' yaw='5.4977875' pitch='0.19634955' fieldOfView='1.0995575' time='1749902400000'/>
+  <camera attribute='topCamera' lens='PINHOLE' x='886.852' y='760.0569' z='1069.2059' yaw='9.625963' pitch='1.0349998' fieldOfView='1.0995575' time='1749902400000'/>
+  <doorOrWindow id='doorOrWindow-2feb4f06-d39c-4377-ab03-d1ee63fca4ca' catalogId='eTeks#frontDoor' name='Main Exit' creator='eTeks' model='1' icon='0' x='1510.0952' y='219.73659' angle='4.712389' width='101.6' depth='9.737416' height='208.5975' modelSize='24179' license='GNU GPL / CC-BY' movable='false' dropOnTopElevation='-0.004796163' nameVisible='true' wallThickness='0.7826087' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true' boundToWall='false'>
+    <sash xAxis='0.049261082' yAxis='0.7826087' width='0.9014778' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow id='doorOrWindow-cdcffc7a-0013-45d3-8e09-ffac9a37f957' catalogId='eTeks#frontDoor' name='Emergency Exit' creator='eTeks' model='1' icon='0' x='868.24994' y='-16.181862' angle='3.1415927' width='101.6' depth='9.737416' height='208.5975' modelSize='24179' license='GNU GPL / CC-BY' movable='false' dropOnTopElevation='-0.004796163' nameVisible='true' wallThickness='0.7826087' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true' boundToWall='false'>
+    <sash xAxis='0.049261082' yAxis='0.7826087' width='0.9014778' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow id='doorOrWindow-12491880-081a-4d05-ab5e-ae354d1b29c4' catalogId='eTeks#frontDoor' name='Back Exit' creator='eTeks' model='1' icon='0' x='484.8673' y='217.00659' angle='1.5707964' width='104.14' depth='22.86' height='208.5975' modelSize='24179' license='GNU GPL / CC-BY' movable='false' dropOnTopElevation='-0.004796163' nameVisible='true' nameAngle='4.9741883' wallThickness='0.7826087' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true' boundToWall='false'>
+    <sash xAxis='0.049261082' yAxis='0.7826087' width='0.9014778' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <wall id='wall-83ab4aec-38f9-46a2-b51c-67c76d9a509d' wallAtEnd='wall-752f798e-82fc-4fa7-b01e-6ae67b7a1ee7' xStart='449.99994' yStart='-47.24021' xEnd='1549.8201' yEnd='-47.24021' height='243.84' thickness='7.62' pattern='hatchUp'/>
+  <wall id='wall-752f798e-82fc-4fa7-b01e-6ae67b7a1ee7' wallAtStart='wall-83ab4aec-38f9-46a2-b51c-67c76d9a509d' wallAtEnd='wall-eab76721-7424-4027-83fa-8d3046e60826' xStart='1549.8201' yStart='-47.24021' xEnd='1548.4866' yEnd='465.18646' height='243.84' thickness='7.62' pattern='hatchUp'/>
+  <wall id='wall-eab76721-7424-4027-83fa-8d3046e60826' wallAtStart='wall-752f798e-82fc-4fa7-b01e-6ae67b7a1ee7' wallAtEnd='wall-607a5b12-3630-4ede-bbdb-7d55f74e3d21' xStart='1548.4866' yStart='465.18646' xEnd='448.66656' yEnd='465.18658' height='243.84' thickness='7.62' pattern='hatchUp'/>
+  <wall id='wall-607a5b12-3630-4ede-bbdb-7d55f74e3d21' wallAtStart='wall-eab76721-7424-4027-83fa-8d3046e60826' xStart='448.66656' yStart='465.18658' xEnd='449.99994' yEnd='-47.24021' height='243.84' thickness='7.62' pattern='hatchUp'/>
+  <room id='room-d3881232-160f-4afe-b1d4-0a6ee8dffd23' name='room 100' ceilingFlat='true'>
+    <point x='449.99994' y='-47.24021'/>
+    <point x='818.3' y='-47.24021'/>
+    <point x='818.3' y='131.09976'/>
+    <point x='449.99994' y='133.09978'/>
+  </room>
+  <room id='room-c2bc6980-9168-411d-96e0-0876dee90e90' name='nikhil room' ceilingFlat='true'>
+    <point x='908.4' y='-43.24021'/>
+    <point x='1213.2' y='-43.24021'/>
+    <point x='1213.2' y='132.0198'/>
+    <point x='906.2999' y='131.09976'/>
+  </room>
+  <room id='room-887b50ad-21e2-4c56-bc23-306d41417092' name='saurabh room' ceilingFlat='true'>
+    <point x='457.33325' y='332.89313'/>
+    <point x='819.63324' y='332.89313'/>
+    <point x='819.63324' y='462.43317'/>
+    <point x='457.33325' y='462.43317'/>
+  </room>
+  <room id='room-ab589c37-f672-4214-9df1-6de196b96338' name='akash room' ceilingFlat='true'>
+    <point x='820.9666' y='334.2265'/>
+    <point x='1131.8667' y='334.2265'/>
+    <point x='1127.8667' y='460.68646'/>
+    <point x='820.9666' y='459.76654'/>
+  </room>
+  <room id='room-92b6434d-2bbc-4f29-937c-4e8144814d30' name='Room 102' ceilingFlat='true'>
+    <point x='1269.5' y='-43.24021'/>
+    <point x='1269.5' y='132.0198'/>
+    <point x='1546.01' y='132.0198'/>
+    <point x='1546.01' y='-43.430214'/>
+    <point x='1269.5' y='-43.24021'/>
+  </room>
+  <room id='room-096f255d-63e9-4e1a-9275-96975e57b527' name='J1' ceilingFlat='true'>
+    <point x='834.1667' y='196.14275'/>
+    <point x='890.0466' y='196.14275'/>
+    <point x='890.0466' y='259.64276'/>
+    <point x='834.1667' y='259.64276'/>
+    <point x='834.1667' y='196.14275'/>
+  </room>
+  <room id='room-bfb52813-af05-4d47-922a-097459ccae09' name='J4' ceilingFlat='true'>
+    <point x='1398.1667' y='196.1428'/>
+    <point x='1454.0469' y='196.1428'/>
+    <point x='1454.0469' y='259.64282'/>
+    <point x='1398.1667' y='259.64282'/>
+    <point x='1398.1667' y='196.1428'/>
+  </room>
+  <room id='room-3f9c7504-b6e5-404c-828c-97d73c591dfe' name='J2' ceilingFlat='true'>
+    <point x='1048.8333' y='196.1428'/>
+    <point x='1104.7131' y='196.1428'/>
+    <point x='1104.7131' y='259.64282'/>
+    <point x='1048.8333' y='259.64282'/>
+    <point x='1048.8333' y='196.1428'/>
+  </room>
+  <room id='room-2cca4227-7abc-4760-81f9-1bd3309fae03' name='J0' ceilingFlat='true'>
+    <point x='606.1666' y='198.80943'/>
+    <point x='662.04663' y='198.80943'/>
+    <point x='662.04663' y='262.3095'/>
+    <point x='606.1666' y='262.3095'/>
+    <point x='606.1666' y='198.80943'/>
+  </room>
+  <room id='room-a3715a19-e612-4411-8916-7b83b0ed2469' name='J3' ceilingFlat='true'>
+    <point x='1228.8335' y='202.80943'/>
+    <point x='1264.3936' y='202.80943'/>
+    <point x='1264.3936' y='245.98946'/>
+    <point x='1228.8335' y='245.98946'/>
+    <point x='1228.8335' y='202.80943'/>
+  </room>
+  <room id='room-c8ea1fc2-ae8f-4674-8d35-b940d0e1b06b' name='Lobby' ceilingFlat='true'>
+    <point x='1185.5' y='334.2265'/>
+    <point x='1345.52' y='334.2265'/>
+    <point x='1345.52' y='420.5865'/>
+    <point x='1185.5' y='420.5865'/>
+    <point x='1185.5' y='334.2265'/>
+  </room>
+  <room id='room-9b7d8da0-2402-40b1-8a90-38f0a91f7008' name='Store room' ceilingFlat='true'>
+    <point x='1398.1667' y='334.2265'/>
+    <point x='1507.3867' y='334.2265'/>
+    <point x='1507.3867' y='420.5865'/>
+    <point x='1398.1667' y='420.5865'/>
+    <point x='1398.1667' y='334.2265'/>
+  </room>
+  <polyline id='polyline-3e617325-8537-431f-af7c-c4666257ccbd' thickness='2.54' color='FF000000'>
+    <point x='632.8333' y='124.14279'/>
+    <point x='632.8333' y='210.50279'/>
+  </polyline>
+  <polyline id='polyline-1ead0c86-e390-4154-92f5-c39f3ec863dd' thickness='2.54' color='FF000000'>
+    <point x='631.49994' y='337.47614'/>
+    <point x='631.49994' y='251.11615'/>
+  </polyline>
+  <polyline id='polyline-cadbdac2-f270-460f-99dc-fd32f9ff550e' thickness='2.54' color='FF000000'>
+    <point x='651.49994' y='230.8095'/>
+    <point x='844.54' y='230.8095'/>
+  </polyline>
+  <polyline id='polyline-b96b8757-1424-4c0a-826c-50490ee47d4f' thickness='2.54' color='FF000000'>
+    <point x='880.8333' y='226.8095'/>
+    <point x='1058.633' y='226.8095'/>
+  </polyline>
+  <polyline id='polyline-8ec757b6-f85b-4ce9-8b50-f2cfa0de964a' thickness='2.54' color='FF000000'>
+    <point x='1074.1665' y='121.476105'/>
+    <point x='1074.1665' y='205.29613'/>
+  </polyline>
+  <polyline id='polyline-8d863aff-a3d9-4c42-a7a5-ff267180836b' thickness='2.54' color='FF000000'>
+    <point x='1426.1667' y='122.80942'/>
+    <point x='1426.1667' y='211.70946'/>
+  </polyline>
+  <polyline id='polyline-95bd1513-1e0b-41c4-889a-20a02a4b52a3' thickness='2.54' color='FF000000'>
+    <point x='1443.5' y='221.47612'/>
+    <point x='1524.78' y='221.47612'/>
+  </polyline>
+  <polyline id='polyline-d89dce89-11ca-466d-a1b1-791edfe6a2d0' thickness='2.54' color='FF000000'>
+    <point x='1092.8333' y='226.8095'/>
+    <point x='1235.0735' y='226.8095'/>
+  </polyline>
+  <polyline id='polyline-d0ee91d4-f2f3-4c35-a653-74fb51d7112b' thickness='2.54' color='FF000000'>
+    <point x='1258.1667' y='222.8095'/>
+    <point x='1405.4868' y='222.8095'/>
+  </polyline>
+  <polyline id='polyline-a881f4c4-859b-48ed-aefa-913ee0fc301a' thickness='2.54' color='FF000000'>
+    <point x='863.49994' y='204.1428'/>
+    <point x='863.49994' y='-54.937202'/>
+  </polyline>
+  <polyline id='polyline-813f5b03-6767-474d-93ef-2d11441993f2' thickness='2.54' color='FF000000'>
+    <point x='864.1667' y='344.8095'/>
+    <point x='864.1667' y='245.74953'/>
+  </polyline>
+  <polyline id='polyline-98d2b028-03e3-4184-a0b8-12a9f0fcba0d' thickness='2.54' color='FF000000'>
+    <point x='1251.5' y='239.47612'/>
+    <point x='1251.5' y='343.61615'/>
+  </polyline>
+  <polyline id='polyline-1363a23e-eb54-41c4-aa69-f4775e5c5121' thickness='2.54' color='FF000000'>
+    <point x='1337.5' y='373.47614'/>
+    <point x='1408.6201' y='373.47614'/>
+  </polyline>
+  <polyline id='polyline-7c218922-2924-4372-ba48-001b39a00663' thickness='2.54' color='FF000000'>
+    <point x='1437.5' y='341.47614'/>
+    <point x='1437.5' y='242.41614'/>
+  </polyline>
+  <polyline id='polyline-4025e335-c124-4735-8873-724d18e7c653' thickness='2.54' color='FF000000'>
+    <point x='608.8334' y='232.14279'/>
+    <point x='446.27338' y='232.14279'/>
+  </polyline>
+</home>

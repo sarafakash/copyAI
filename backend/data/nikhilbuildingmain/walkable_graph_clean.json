@@ -11,35 +11,63 @@
     "Main Exit",
     "Room 102",
     "Store room",
+    "akash room",
+    "nikhil room",
     "room 100",
-    "room 101",
-    "room 103",
-    "room 104"
+    "saurabh room"
   ],
   "edges": [
     {
-      "from": "J1",
-      "to": "J2"
-    },
-    {
-      "from": "J0",
-      "to": "room 103"
+      "from": "J3",
+      "to": "Lobby"
     },
     {
       "from": "Back Exit",
       "to": "J0"
     },
     {
-      "from": "J2",
-      "to": "room 101"
+      "from": "J1",
+      "to": "J2"
+    },
+    {
+      "from": "J0",
+      "to": "saurabh room"
     },
     {
       "from": "J0",
       "to": "J1"
     },
     {
+      "from": "J4",
+      "to": "Main Exit"
+    },
+    {
+      "from": "J2",
+      "to": "J3"
+    },
+    {
+      "from": "Emergency Exit",
+      "to": "J1"
+    },
+    {
+      "from": "J2",
+      "to": "nikhil room"
+    },
+    {
+      "from": "J4",
+      "to": "Room 102"
+    },
+    {
+      "from": "Lobby",
+      "to": "Store room"
+    },
+    {
       "from": "J1",
-      "to": "room 104"
+      "to": "akash room"
+    },
+    {
+      "from": "J4",
+      "to": "Store room"
     },
     {
       "from": "J0",
@@ -48,34 +76,6 @@
     {
       "from": "J3",
       "to": "J4"
-    },
-    {
-      "from": "Emergency Exit",
-      "to": "J1"
-    },
-    {
-      "from": "J4",
-      "to": "Store room"
-    },
-    {
-      "from": "Lobby",
-      "to": "Store room"
-    },
-    {
-      "from": "J4",
-      "to": "Room 102"
-    },
-    {
-      "from": "J2",
-      "to": "J3"
-    },
-    {
-      "from": "J3",
-      "to": "Lobby"
-    },
-    {
-      "from": "J4",
-      "to": "Main Exit"
     }
   ]
 }
